@@ -4,6 +4,13 @@ config.py
 #Adding Additional files
 API_practice.ipynb
 random_numbers.ipynb
+WeatherPy.ipynb
+VacationPy.ipynb
+Untitled.ipynb
+try-except.ipynb
+random_numbers.ipynb
+Google_Nearby_Search.ipynb
+API_practice.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
